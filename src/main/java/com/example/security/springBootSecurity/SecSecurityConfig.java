@@ -87,7 +87,7 @@ public class SecSecurityConfig extends WebSecurityConfigurerAdapter {
                 .httpBasic();
         */
 
-    /******
+
         /* this will all security from the security
         http
             .httpBasic();
